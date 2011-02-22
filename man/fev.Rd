@@ -13,7 +13,7 @@ exposure to smoking at home.
     \item{\code{Age}}{age in years}
     \item{\code{FEV}}{forced expiratory volume in liters}
     \item{\code{Ht}}{height measured in inches}
-    \item{\code{Gender}}{gender}
+    \item{\code{Gender}}{gender (0=female, 1=male)}
     \item{\code{Smoke}}{exposure to smoking (0=no, 1=yes)}
   }
 }

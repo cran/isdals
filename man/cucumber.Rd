@@ -10,7 +10,7 @@
 }
 \usage{data(cucumber)}
 \format{
-  A data frame with 361 observations on the following 3 variables.
+  A data frame with 12 observations on the following 3 variables.
   \describe{
     \item{\code{disease}}{a numeric vector}
     \item{\code{climate}}{a factor with levels \code{A} (change to day temperature 3

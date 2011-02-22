@@ -1,7 +1,7 @@
 \name{crabs}
 \alias{crabs}
 \docType{data}
-\title{Weight og crabs}
+\title{Weight of crabs}
 \description{
 The length and weight of 361 crabs. The crabs were measured at three different days and they were raised in three different vat types.
 }
