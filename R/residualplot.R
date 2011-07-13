@@ -5,6 +5,10 @@ residualplot <- function(object, bandwidth=.3, ...) {
 
   x <- predict(object)
   y <- rstandard(object)
+
+  cc <- complete.cases(x, y)
+  x <- x[cc]
+  y <- y[cc]
   
   plot(x, y, 
        xlab="Fitted values", ylab="Standardized residuals", ...)
