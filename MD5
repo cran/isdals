@@ -1,6 +1,7 @@
-396d74ddee965aed83d75e3a9fdef6ee *DESCRIPTION
+07ae2de15375ddf3267326b2175d2011 *DESCRIPTION
+012592abf4b40a8d741b299df2ded05a *NAMESPACE
 006426ec38855e1c50e09d4e1ec9abb5 *R/logit.R
-d588051998169af29c36b13e7d02bb89 *R/residualplot.R
+3ed1f93a45ed2ffcea58431b97f2990c *R/residualplot.R
 ad54fbbf81dc69b2e9ee1e5ebe305f31 *data/agefat.rda
 3a88dcd1c1a34ed73a8ed86bc4fa555a *data/aids.rda
 8a05de5ff11d6656768feb887ccc2441 *data/alligator.rda

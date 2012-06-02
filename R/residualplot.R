@@ -32,7 +32,7 @@ residualplot <- function(object, bandwidth=.3, ...) {
     i <- i +1
   }
   vary[is.na(vary)] <- 0
-  color <- rgb(237, 149, 100, 50, max=255)
+  color <- rgb(237, 149, 100, 50, maxColorValue=255)
   polygon(c(uniqx, rev(uniqx)), c(vary, -(rev(vary))),
           col=color, border=NA)
 #  lines(uniqx, vary, col="red")
