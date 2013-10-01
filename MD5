@@ -1,4 +1,4 @@
-07ae2de15375ddf3267326b2175d2011 *DESCRIPTION
+557804723e62e8f6dc144edb5337ac2e *DESCRIPTION
 012592abf4b40a8d741b299df2ded05a *NAMESPACE
 006426ec38855e1c50e09d4e1ec9abb5 *R/logit.R
 3ed1f93a45ed2ffcea58431b97f2990c *R/residualplot.R
@@ -72,7 +72,7 @@ e941f7b695ba54c58674aecf5de16207 *man/cabbage.Rd
 a075b6bb22d947c504f44c5f95de47ee *man/cattle.Rd
 4c0d3dff676ca13676a849b9d466f1e9 *man/chicken.Rd
 a9b8a1dbc3892a38e6f9de70532d0c5d *man/chloro.Rd
-036f203ff9483c4264a1f7b1ba14f2be *man/cooling.Rd
+e3c239bbe0ced61f10e24b881ee92e19 *man/cooling.Rd
 4f48083740a2efa925ec3f71a0f98a44 *man/cornyield.Rd
 4633ad02a867d58652eae74bb025a708 *man/crabs.Rd
 78076314ab023dd442c76697cccc2c63 *man/cuckoo.Rd
@@ -87,7 +87,7 @@ e746fdeea64d18e953366c5e25e5bea7 *man/elisa.Rd
 b024b83e8c0cf38a6166e5e1471ec0a4 *man/gestation.Rd
 dcf5248bdb7fc2fc00527e2eaf17d65d *man/hazard.Rd
 8f55217a387a6d533e634817f28a9f75 *man/herring.Rd
-d4caf5690eae756e27e6ddfd64e389a2 *man/hormone.Rd
+e81e34482fbb67ae91c5ef69d6702350 *man/hormone.Rd
 776df54c14b0bd41c75a73ad7e12680e *man/interspike.Rd
 39f40ac163fbde357b7bbba139e3530e *man/isdals-package.Rd
 1231aa651afe7a9c152661929ac79ccc *man/lameness.Rd
