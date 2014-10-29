@@ -19,7 +19,7 @@ The number of seals in a population were counted each year during a period of
 %}
 \source{
 J. Verzani (1005). Using R for Introductory Statistics.
-Chapman \& Hall/CRC, London
+Chapman & Hall/CRC, London
 }
 %\references{
 %%  ~~ possibly secondary sources and usages ~~

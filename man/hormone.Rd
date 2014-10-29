@@ -3,8 +3,7 @@
 \docType{data}
 \title{Hormone concentration in cattle}
 \description{
-As part of a larger cattle study, the effect of a particular 
-ype of feed on
+As part of a larger cattle study, the effect of two types of feed on
 the concentration of a certain hormone was investigated.  Twenty cows were given
 the feed for a period, and the hormone concentration was measured initially
 and at the end of the period. 

@@ -32,12 +32,12 @@ The daily food intake was studied for 2224 subjects, and the content of many dif
   }
 }
 \details{
-Only variables Avit and bmr are used in the isdals book.
+Only variables Avit and bmr are used in the "Introduction to Statistical Data Analysis for the Life Sciences" book.
 }
 \source{
 J. Haraldsdottir, J.H. Jensen, A. Moller (1985).
 Danskernes kostvaner 1985, Hovedresultater.
-Levnedsmiddelstyrelsen, publikation nr.\ 138.
+Levnedsmiddelstyrelsen, publikation nr. 138.
 }
 %\references{
 %%  ~~ possibly secondary sources and usages ~~

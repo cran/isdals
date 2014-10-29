@@ -9,7 +9,7 @@
 }
 \usage{data(birthweight)}
 \format{
-  A data frame with 361 observations on the following 5 variables.
+  A data frame with 361 observations on the following 3 variables.
   \describe{
     \item{\code{sex}}{a factor with levels \code{male} \code{female}}
     \item{\code{age}}{a numeric vector}

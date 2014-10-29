@@ -22,7 +22,7 @@ exposure to smoking at home.
 %}
 \source{
   I. Tager and S. Weiss and B. Rosner and F. Speizer (1979). Effect of
-  Paternal Cigarette Smoking on the Pulmonary Function of Children. 
+  Parental Cigarette Smoking on the Pulmonary Function of Children. 
   American Journal of Epidemiology. 110:15-26
 }
 %\references{
