@@ -1,13 +1,15 @@
 Package: isdals
-Version: 2.0-4
-Title: Provides datasets for Introduction to Statistical Data Analysis
+Version: 3.0.0
+Title: Provides Datasets for Introduction to Statistical Data Analysis
         for the Life Sciences
-Author: Claus Ekstrom <ekstrom@sund.ku.dk> and Helle Sorensen <helle@math.ku.dk>
+Author: Claus Thorn Ekstrøm <ekstrom@sund.ku.dk> and Helle Sørensen <helle@math.ku.dk>
 Maintainer: Claus Ekstrom <ekstrom@sund.ku.dk>
-Description: Provides datasets for Introduction to Statistical Data Analysis for the Life Sciences
+Description: Provides datasets for the book "Introduction to Statistical Data Analysis for the Life Sciences, Second edition" by Ekstrøm and Sørensen (2014).
 License: GPL-2
 Suggests: VGAM
-Packaged: 2014-10-29 15:29:13 UTC; cld189
+Encoding: UTF-8
+RoxygenNote: 7.1.2
 NeedsCompilation: no
+Packaged: 2022-04-22 08:14:24 UTC; ekstrom
 Repository: CRAN
-Date/Publication: 2014-10-29 18:37:58
+Date/Publication: 2022-04-22 08:40:06 UTC

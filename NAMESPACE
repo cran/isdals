@@ -1,1 +1,4 @@
 exportPattern("^[^\\.]")
+importFrom("grDevices", "rgb")
+importFrom("graphics", "lines", "points", "polygon")
+importFrom("stats", "complete.cases", "predict", "rstandard", "sd", "smooth.spline")
