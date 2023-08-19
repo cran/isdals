@@ -17,7 +17,7 @@ The data consist of height and diameter (in breast height) measurements from 18 
 %}
 \source{
 J.N.R. Jeffers (1959). Experimental Design and Analysis in Forest Research.
-Almqvist \& Wiksell, Stockholm.
+Almqvist and Wiksell, Stockholm.
 }
 %\references{
 %  ~~ possibly secondary sources and usages ~~

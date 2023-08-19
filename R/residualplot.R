@@ -1,3 +1,39 @@
+#' Plots a standardaized residual
+#'
+#' Plots a standardized residual plot from an lm object and provides additional graphics to help evaluate the variance homogeneity and mean.
+#'
+#' Plots a standardized residual plot from an lm object and provides
+#' additional graphics to help evaluate the variance homogeneity and mean.
+#'
+#' The brown area is a smoothed estimate of 1.96*SD of the standardized
+#' residuals in a window around the predicted value. The brown area
+#' should largely be rectangular if the standardized residuals have more
+#' or less the same variance.
+#'
+#' The dashed line shows the smoothed mean of the standardized residuals
+#' and should generally follow the horizontal line through (0,0).
+#'
+#' @param object an lm object
+#' @param bandwidth The width of the window used to calculate the local smoothed version of the mean and the variance. Value should be between 0 and 1 and determines the percentage of the windowwidth used
+#' @param ... Arguments passed to plot.
+#'
+#' @return Produces a standardized residual plot
+#'
+#' @author Claus Ekstrøm <ekstrom@@sund.ku.dk>
+#'
+#' @examples
+#' # Linear regression example
+#' x <- rnorm(100)
+#' y <- rnorm(100, mean=.5*x)
+#' model <- lm(y ~ x)
+#' residualplot(model)
+#'
+#' @keywords hplot
+#' @importFrom stats complete.cases predict rstandard sd smooth.spline
+#' @importFrom graphics lines points polygon
+#' @importFrom grDevices rgb
+#'
+#' @export
 residualplot <- function(object, bandwidth=.3, ...) {
   # Check that input is correct
   if (!inherits(object, "lm")) 
